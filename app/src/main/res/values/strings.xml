@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpinnerExample</string>
+    <string-array name="dishes">
+        <item>menu</item>
+        <item>Vegetarian</item>
+        <item>Non-Vegetarian</item>
+    </string-array>
+    <string name="chicken">Chicken Curry</string>
+    <string name="fish">Fish Curry</string>
+    <string name="mutton">Mutton Curry</string>
+    <string name="paneer">Sahi Paneer</string>
+    <string name="mix">Mixed Veg</string>
+    <string name="manchurian">Paneer Manchurian</string>
+</resources>
